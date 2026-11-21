@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.jj": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.aux": true,
+        "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.log": true,
+        "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.gz": true,
+        "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.out": true
+    }
+}

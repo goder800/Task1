@@ -10,5 +10,7 @@
         "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.log": true,
         "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.gz": true,
         "**/c:\\Users\\dima3\\Documents\\Сапр\\variant_13_redo\\main.out": true
-    }
+    },
+    "latex-workshop.latex.recipe.default": "latexmk (xelatex)",
+    "latex-workshop.latex.autoClean.run": "onBuilt"
 }

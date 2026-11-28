@@ -456,7 +456,7 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [
         "AgFlp1OLyVUfNSyOB_xsj"
@@ -466,12 +466,12 @@
       "roundness": {
         "type": 3
       },
-      "seed": 753959330,
-      "version": 494,
-      "versionNonce": 356864510,
+      "seed": 206348169,
+      "version": 495,
+      "versionNonce": 603306375,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795825613083,
+      "updated": 1795832794251,
       "created": 1791917384177,
       "link": null,
       "locked": false,
@@ -490,7 +490,7 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [
         "AgFlp1OLyVUfNSyOB_xsj"
@@ -500,12 +500,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 7601506,
-      "version": 458,
-      "versionNonce": 252076606,
+      "seed": 176277097,
+      "version": 459,
+      "versionNonce": 741535911,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795825613083,
+      "updated": 1795832794251,
       "created": 1791917384177,
       "link": null,
       "locked": false,
@@ -524,7 +524,7 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [
         "AgFlp1OLyVUfNSyOB_xsj"
@@ -534,12 +534,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1435631906,
-      "version": 460,
-      "versionNonce": 112945790,
+      "seed": 422515017,
+      "version": 461,
+      "versionNonce": 570180551,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795825613083,
+      "updated": 1795832794251,
       "created": 1791917384177,
       "link": null,
       "locked": false,
@@ -558,7 +558,7 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [
         "AgFlp1OLyVUfNSyOB_xsj"
@@ -568,12 +568,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 666471650,
-      "version": 463,
-      "versionNonce": 187001534,
+      "seed": 1034944553,
+      "version": 464,
+      "versionNonce": 896414439,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795825613083,
+      "updated": 1795832794251,
       "created": 1791917384177,
       "link": null,
       "locked": false,

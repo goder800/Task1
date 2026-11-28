@@ -109,7 +109,7 @@
 \heading{РЕШЕНИЕ}
 \setcounter{solutionstep}{0}
 
-\step{Запишем уравнение равновесия}
+\step{Проверка равновесия стержня}
 
 \begin{equation*}
   ql-2ql+ql = 0.
@@ -157,9 +157,8 @@ l=150 \text{ мм},\quad E=2\cdot 10^5 \text{ МПа},\quad A=400\text{ мм}^2,
 \setcounter{solutionstep}{0}
 \step{Проверка закрытия зазора}
 \begin{align*}
-\Delta l_{BC}&=\alpha\Delta T l \\ 
-\text{?: }\delta&\leq\alpha\Delta T l \\
-0{,}01 \text{ мм} &\leq 12\cdot10^{-6}\text{ град}^{-1}\, \cdot100 ^\circ C \cdot 150 \text{ мм}\\ 
+\Delta l_{BC}&=\alpha\Delta T l =12\cdot10^{-6}\text{ град}^{-1}\, \cdot100 ^\circ C \cdot 150 \text{ мм}=0{,}18 \text{ мм}\\ 
+\delta&\leq 0{,}18 \text{ мм}\\
 0{,}01 \text{ мм} &\leq 0{,}18 \text{ мм}
 \end{align*}
 Зазор закрывается
@@ -167,11 +166,11 @@ l=150 \text{ мм},\quad E=2\cdot 10^5 \text{ МПа},\quad A=400\text{ мм}^2,
 
 \step{Определение внутренних силовых факторов}
 
-После закрытия зазора система статически неопределима, поэтому введем локальные координаты и найдем ВСФ через уравнения перемещения
+После закрытия зазора система 1 раз статически неопределима (2 неизвестные осевые реакции при 1 уравнении равновесия), поэтому для определения ВСФ составим одно дополнительное уравнение перемещений
 \begin{center}
   \includegraphics[
     width=1\linewidth,
-    height=0.9\textheight,
+    height=0.85\textheight,
     keepaspectratio
   ]{figures/task2_ISF.png}
 \end{center}
@@ -183,7 +182,7 @@ l=150 \text{ мм},\quad E=2\cdot 10^5 \text{ МПа},\quad A=400\text{ мм}^2,
   N=(\delta-\alpha\Delta T l)\frac{AE}{2l}
 \end{equation*}
 
-Произведенм замену:
+Произведем замену:
 \(
 k=\alpha\Delta T l -\delta\quad\implies\quad N=-k\frac{AE}{2l}
 \)
@@ -220,9 +219,8 @@ k&=\alpha\Delta T\,l-\delta=12\cdot10^{-6}\,\text{град}^{-1}
 \cdot100\,\text{град}\cdot150\,\text{мм}-0{,}01\,\text{мм}\\
 k&=0{,}17\,\text{мм}\\
 N&=-k\frac{AE}{2l}
-=-\frac{
-2\cdot10^5\,\text{МПа}\cdot400\,\text{мм}^2
-\cdot0{,}17\,\text{мм}
+=-0{,}17\,\text{мм}\frac{
+400\,\text{мм}^2\cdot 2\cdot10^5\,\text{МПа}
 }{
 2\cdot150\,\text{мм}
 }\approx-45333{,}3\,\text{Н}\\
